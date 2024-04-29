@@ -1,5 +1,6 @@
 # Simple apps to learn ReactJS!!
-npm install
+To try them, download and:\
+npm install\
 npm start
 
 # Getting Started with Create React App
