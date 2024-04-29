@@ -6,7 +6,7 @@
 First clone this repository.
 
 ```bash
-$ git clone https://github.com/mixstam1821/weather-app.git
+$ git clone https://github.com/mixstam1821/ReactJS_simple_projects/weather-app.git
 ```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
