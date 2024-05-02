@@ -1,33 +1,31 @@
-# Quotes
 
-## Description
+<img src="ancient_quotes.png">
 
-This is a simple Quotes Generator web application built using Html,CSS,ReactJS and Quotes API.I made this simple web application to practice React concepts. It generates random Motivational Quotes on clicking the button in the Application.
+## Instructions
 
-## Demo
+First clone this repository.
 
-Link 👉 https://dazzling-snyder-2f0503.netlify.app/
+```bash
+$ git clone https://github.com/mixstam1821/ReactJS_simple_projects/weather-app.git
+```
 
-## Screenshot
+Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
 
-![screenshot](https://user-images.githubusercontent.com/4997491/97540666-f8f7dd00-19e9-11eb-874a-63f2ec11ef3b.PNG)
+```bash
+$ npm install # or yarn
+```
 
-## Installation
+Run it
 
-Step 1
-🍴 Fork this repo!
+```bash
+$ npm start # or yarn start
+```
 
-Step 2
-👯 Clone this repository to your local machine.
+## Built with
 
-Step 3
-HACK AWAY! 🔨🔨🔨
-
-In the project directory, you can run:
-
-`npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-Made with ❤
+- Reactjs
+- React Hooks
+- Display API Data Using Axios with React
+- [API](https://openweathermap.org/api)
+- React | [Font Awesome](https://fontawesome.com/how-to-use/on-the-web/using-with/react)
+- React loader [spinner](https://www.npmjs.com/package/react-loader-spinner)
