@@ -1,0 +1,20 @@
+.form-control {
+  margin-bottom: 23px;
+}
+
+.form-control label {
+  margin-bottom: 10px;
+  display: inline-block;
+  font-size: 14px;
+  color: #45B5FD;
+  font-weight: 700;
+}
+
+.form-control input {
+  width: 100%;
+  border: 2px solid #45B5FD;
+  border-radius: 5px;
+  padding: 13px;
+  outline: none;
+  color: #45B5FD;
+}
